@@ -1,0 +1,77 @@
+
+Shortcuts used:
+Foot = ft 
+
+000:
+
+    1 Meter == 100 centimeter
+    1 Meter == 39.3701 Inches
+
+    1 Gazz == 3 Feet
+
+1: FOOT:
+
+    1 Foot == 12 Inches
+
+2: SARSAI:
+
+    1 Sarsai == 30.25 Foot
+    OR
+    1 Sarsai == 25.0 Foot
+
+3: Marla:
+
+    1 Marla == 272.25 Foot
+    OR
+    1 Marla == 225.0 Foot
+
+    1 Marla = 9 Sarsai
+
+    if Marla == 272.25 Feet
+    than 272.25(1 Marla) / 9 (Sarsai) == 30.25 Feet (Sarsai)
+
+    if Marla == 225.0 Feet
+    than 225.0(1 Marla) / 9 (Sarsai) == 25.0 Feet (Sarsai)
+
+4: Karam (Used to measure Marla)
+
+    1 Karam == 5.5 Foot
+    -> X3 Karam = 16.5 Foot
+    16.5 x 16.5 == 272.25 Feet == 1 Marla
+
+    OR
+    1 Karam == 5.0 Foot
+    -> X3 Karam = 15.0 Foot
+    15.0 x 15.0 == 225.0 Feet == 1 Marla
+
+5: Kanaal:
+
+    1 Kanaal == 20 Marla
+    4 Kanaal == 1 Vighha
+    8 Kanaal == 1 Acre
+
+6: Acre:
+
+    if Marla == 272.25 Feet
+    than == 8 Kanaal 18 Marlay *18 Marlay bonus
+
+    if Marla == 225.0 Feet
+    than == * Kanaal Only
+
+    To Measure Acre:
+    if Marla == 272.25 Feet
+    1 Acre == >Length = 40 Karam * Width = 40 Karam
+
+    if Marla == 225.0 Feet
+    1 Acre == >Length = 36 Karam * Width = 40 Karam
+
+
+7: Murabba:
+
+    1 Murabba == 25 Acre
+
+How to read land on Fardd:
+
+    Kanaal-Marla-Feet
+
+    22-2-0 = 22 Kanaal, 2 Marla, 0 Foot.
